@@ -1,7 +1,7 @@
 # Aplicatie de Gestionare a Tranzactiilor Financiare
 
 
-  Acest proiect este o aplicatie desktop in C, destinat gestionarii tranzactiilor financiare personale. Aplicatia permite utilizatorilor sa adauge, vizualizeze si sa analizeze veniturile si cheltuielile, oferind rapoarte financiare detaliate si calcularea soldului curent.
+  Acest proiect este o aplicatie desktop in **C**, destinat gestionarii tranzactiilor financiare personale. Aplicatia permite utilizatorilor sa adauge, vizualizeze si sa analizeze veniturile si cheltuielile, oferind rapoarte financiare detaliate si calcularea soldului curent.
 
 
 ## Functionalitati principale:

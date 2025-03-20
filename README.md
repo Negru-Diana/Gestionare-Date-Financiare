@@ -33,7 +33,7 @@
 ## Obiective proiect
 
 Proiectul a fost realizat in Anul I, Semestrul 1 de facultate, la cursul **facultativ** de **Programare in C**, avand ca obiectiv dezvoltarea abilitatilor practice in:
--  **Manipularea fisierelor**, pentru stocarea si gestionarea persistenta a tranzactiilor financiare
+-  **Manipularea fisierelor**, pentru stocarea si gestionarea tranzactiilor financiare
 -  **Utilizarea structurilor de date**, pentru organizarea eficienta a informatiilor despre tranzactii
 -  **Validarea si prelucrarea datelor**
 -  **Intercatiunea cu utilizatorul**, printr-un meniu intuitiv si usor de utilizat
